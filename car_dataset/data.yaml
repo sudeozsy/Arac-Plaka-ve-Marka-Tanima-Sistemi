@@ -1,0 +1,5 @@
+train: C:/Users/sait1/PycharmProjects/goruntuisleme/proje2/car_dataset/train/images
+val: C:/Users/sait1/PycharmProjects/goruntuisleme/proje2/car_dataset/valid/images
+
+nc: 1
+names: ['plate']
